@@ -1,0 +1,172 @@
+body {
+	background-color: #e4e4e4;
+}
+.wrapper {
+	min-height: 100%;
+	max-width: 810px;
+	overflow: hidden;
+	margin: 20px auto;
+	font-family: Arial, Helvetica, sans-serif;
+	background-color: white;
+	border-radius: 20px;
+}
+
+.ava {
+	width: 50px;
+	height: 50px;
+	border-radius: 50%;
+	margin-top: 20px;
+	margin-left: 20px;
+}
+
+.vita {
+	display: inline-block;
+	font-weight: 600;
+	font-size: 20px;
+	line-height: 1.5;
+	margin-top: 20px;
+}
+.font100 {
+	font-weight: 600;
+	font-size: 17px;
+	color: #6b6b6b;
+}
+.pictire {
+	margin: 10px 5px;
+	margin-left: 20px;
+}
+
+div .photo {
+	width: 402px;
+	max-width: 100%;
+	margin-top: 5px;
+}
+
+.link1 {
+	margin-top: 15px;
+	font-weight: 100;
+	font-size: 20px;
+	color: #6b6b6b;
+	border-bottom: 1px solid #6b6b6b;
+	padding-bottom: 15px;
+	margin-left: 20px;
+	max-width: 770px;
+}
+.L,
+.H {
+	width: 15px;
+}
+.H {
+	margin-left: -6px;
+}
+.span {
+	display: inline-block;
+	margin-left: 180px;
+}
+
+.link2 {
+	margin-top: 15px;
+	margin-left: 20px;
+	border-bottom: 1px solid #6b6b6b;
+	max-width: 770px;
+}
+.knopka1,
+.knopka2 {
+	display: inline-block;
+	margin-bottom: 15px;
+	background-color: #f0f0f0f5;
+	padding: 15px 0px 0px 120px;
+	font-size: 20px;
+	text-transform: capitalize;
+	width: 370px;
+	height: 50px;
+	border-radius: 10px;
+	color: #6b6b6b;
+}
+.knopka1 {
+	color: blue;
+}
+.koment.papish {
+	display: inline-block;
+	width: 400px;
+	background-color: #f0f0f0f5;
+	margin: 15px 0 5px 0;
+	border-radius: 20px;
+	padding: 10px 0 10px 20px;
+	line-height: 1.4;
+	font-size: 20px;
+}
+.bold {
+	font-weight: 700;
+	text-transform: capitalize;
+}
+
+.koment2 {
+	color: #6b6b6b;
+	font-weight: 700;
+	font-size: 17px;
+	word-spacing: 15px;
+	text-transform: capitalize;
+	margin-left: 95px;
+	margin-bottom: 15px;
+}
+
+.coment3 {
+	color: #6b6b6b;
+	font-weight: 100;
+	font-size: 17px;
+	word-spacing: normal;
+	text-transform: none;
+}
+
+img.papish {
+	width: 50px;
+	border-radius: 50%;
+	margin-top: 15px;
+	margin-left: 20px;
+}
+
+img.ava2 {
+	width: 35px;
+	border-radius: 50%;
+	margin-left: 70px;
+}
+
+.koment,
+.bodnar {
+	display: inline-block;
+	width: 300px;
+	background-color: #f0f0f0f5;
+	border-radius: 10px;
+	padding: 10px 10px 10px 10px;
+	line-height: 1.4;
+	font-size: 20px;
+	margin-bottom: 5px;
+}
+.koment4 {
+	color: #6b6b6b;
+	font-size: 18px;
+	text-decoration: underline;
+	font-weight: 700;
+	margin-left: 20px;
+}
+.ava4 {
+	width: 50px;
+	border-radius: 50%;
+	margin-top: 15px;
+	margin-left: 20px;
+}
+.footer {
+	display: inline-block;
+	width: 550px;
+	background-color: #f0f0f0f5;
+	margin: 15px 0 15px 0px;
+	border-radius: 20px;
+	padding: 10px 0 10px 20px;
+	line-height: 1.4;
+	color: gray;
+	font-size: 20px;
+}
+.gifs {
+	margin-left: 200px;
+}
